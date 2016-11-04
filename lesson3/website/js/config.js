@@ -1,7 +1,7 @@
 var configConstants = {
     auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
+        domain: 'chtompki.auth0.com',
+        clientId: '4sDon2a2Avpd8irEr676FyhD1issqVRm'
     },
-    apiBaseUrl: 'YOUR_API_BASE_URL_HERE_NO_TRAILING_SLASH'
+    apiBaseUrl: 'https://54164wze00.execute-api.us-east-1.amazonaws.com/dev'
 };
