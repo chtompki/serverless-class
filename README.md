@@ -6,3 +6,4 @@ serverless-class
 * [lssson2](https://github.com/chtompki/serverless-class/tree/master/lssson2)
 * [lssson3](https://github.com/chtompki/serverless-class/tree/master/lssson3)
 * [lssson4](https://github.com/chtompki/serverless-class/tree/master/lssson4)
+* [lssson5](https://github.com/chtompki/serverless-class/tree/master/lssson5)
