@@ -1,3 +1,9 @@
+# WebStorm
+.idea
+.DS_Store
+.idea/workspace.xml
+*.iml
+
 # Logs
 logs
 *.log
