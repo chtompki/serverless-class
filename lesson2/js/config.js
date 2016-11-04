@@ -1,6 +1,6 @@
 var configConstants = {
     auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
+        domain: 'chtompki.auth0.com',
+        clientId: '4sDon2a2Avpd8irEr676FyhD1issqVRm'
     }
 };
